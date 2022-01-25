@@ -1,0 +1,23 @@
+{
+  "name": "gitops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marufsiddiqui/gitops.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marufsiddiqui/gitops/issues"
+  },
+  "homepage": "https://github.com/marufsiddiqui/gitops#readme",
+  "devDependencies": {
+    "mocha": "^9.2.0"
+  }
+}
